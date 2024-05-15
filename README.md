@@ -7,8 +7,6 @@ This repository contains a collection of commonly used data structures implement
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
