@@ -10,7 +10,7 @@ This repository contains a collection of commonly used data structures implement
 
 ## Introduction
 
-Data structures are essential components in computer science and are used to store and organize data efficiently. This repository provides implementations of various data structures in Python, along with explanations of their usage and complexity analysis.
+Data structures are essential components in computer science and are used to store and organize data efficiently. This repository provides implementations of various data structures in Python.
 
 ## Data Structures
 
